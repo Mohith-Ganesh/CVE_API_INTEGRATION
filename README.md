@@ -1,7 +1,10 @@
 # CVE API Integration
 
+<<<<<<< HEAD
 ## BACKEND 
 
+=======
+>>>>>>> 90e2ea3a24b1f56f0b17b3228c4d8911bc4b96eb
 <!-- Overview -->
 This project is a backend service built with Node.js and Express.js to manage and process CVE (Common Vulnerabilities and Exposures) data. The service pulls CVE data from an external source, stores it in a MongoDB database, and exposes RESTful API endpoints for querying and interacting with the CVE data. It also includes a cron job that runs every two days to fetch and update CVE records.
 
@@ -25,6 +28,7 @@ This project is a backend service built with Node.js and Express.js to manage an
 
 1. **Clone the Repository**:
 ```bash
+<<<<<<< HEAD
 git clone <repo_url>
 cd cve-api
 ```
@@ -87,3 +91,12 @@ Here are some screenshots demonstrating the application:
 
 ### Screenshot 5: [CVE Edit Form]
 ![CVE Edit Form](screenshots/Screenshot%202024-12-17%20184619.png)
+=======
+git clone https://github.com/yourusername/cve-api.git
+cd cve-api
+
+2. **Start the server**:
+```bash
+git clone https://github.com/yourusername/cve-api.git
+cd cve-api
+>>>>>>> 90e2ea3a24b1f56f0b17b3228c4d8911bc4b96eb
