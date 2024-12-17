@@ -33,6 +33,7 @@ cd cve-api
 
 ```bash
     cd Backend
+    npm install
     node app.js
 ```
 
@@ -61,6 +62,7 @@ you can pass the filters either direct filters or indirect filters as required a
 
 ```bash
     cd frontend
+    npm install
     npm start
 ```
 
