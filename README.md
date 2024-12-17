@@ -91,12 +91,3 @@ Here are some screenshots demonstrating the application:
 
 ### Screenshot 5: [CVE Edit Form]
 ![CVE Edit Form](screenshots/Screenshot%202024-12-17%20184619.png)
-=======
-git clone https://github.com/yourusername/cve-api.git
-cd cve-api
-
-2. **Start the server**:
-```bash
-git clone https://github.com/yourusername/cve-api.git
-cd cve-api
->>>>>>> 90e2ea3a24b1f56f0b17b3228c4d8911bc4b96eb
